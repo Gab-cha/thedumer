@@ -1,0 +1,28 @@
+@charset "utf-8";
+.morado   {
+    background-color: #5D1777;
+}
+body{ 
+font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+}
+.img {
+    background-image: url(../img/img%20drumer1.jpg);
+    background-position: 207% 24%;
+
+
+
+}
+.white-words  {
+    color: #FFFFFF;
+}
+.mb3 {
+}
+
+.img-guia {
+	background-image: url("../img/guia.jpg")
+}
+
+.img-sus {
+	background-image: url("../img/sus.jpg")
+}
+
